@@ -1,0 +1,6 @@
+id=s10camerahiddenfeatures
+name=Enable hidden camera features for S10 series
+version=v1.0
+versionCode=1
+author=daoudedy & 303-hue
+description=Install daoudedy's camera-features.xml systemless-ly.
